@@ -1,0 +1,6 @@
+pytorch-lightning==1.4.2
+omegaconf==2.1.1
+einops==0.3.0
+torchattacks==3.5.1
+transformers==4.32.1
+-e git+https://github.com/CompVis/taming-transformers.git@master#egg=taming-transformers
