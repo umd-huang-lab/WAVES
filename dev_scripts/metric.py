@@ -1,4 +1,8 @@
 import os
+import sys
+
+# TODO: Fix the path!!
+sys.path.insert(0, '/mnt/d/WAVES/WAVES_V2/')
 import click
 import torch
 from transformers import logging

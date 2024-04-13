@@ -184,3 +184,5 @@ cli.add_command(metric)
 cli.add_command(chmod)
 # Debug commands
 cli.add_command(space)
+
+cli()

@@ -148,3 +148,8 @@ models
 
 # wandb
 wandb
+
+# my own data
+# TODO: remove this when release!!
+image_data
+images
